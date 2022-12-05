@@ -1,0 +1,66 @@
+
+/* Class = "UITextField"; placeholder = "Id"; ObjectID = "1UQ-we-mLB"; */
+"1UQ-we-mLB.placeholder" = "Automatically Assigned";
+
+/* Class = "UIBarButtonItem"; title = "atras"; ObjectID = "31O-zO-l8a"; */
+"31O-zO-l8a.title" = "Back";
+
+/* Class = "UILabel"; text = "Id"; ObjectID = "3pa-ba-906"; */
+"3pa-ba-906.text" = "Id";
+
+/* Class = "UINavigationItem"; title = "Listado Usuarios"; ObjectID = "7pY-D7-IEv"; */
+"7pY-D7-IEv.title" = "Users List";
+
+/* Class = "UITextField"; placeholder = "Nombre"; ObjectID = "DSi-sh-omq"; */
+"DSi-sh-omq.placeholder" = "Name";
+
+/* Class = "UIButton"; configuration.title = "Insertar"; ObjectID = "FmI-Wa-fll"; */
+"FmI-Wa-fll.configuration.title" = "Insert";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FmI-Wa-fll"; */
+"FmI-Wa-fll.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Id"; ObjectID = "GfN-mF-YCC"; */
+"GfN-mF-YCC.text" = "Id";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "HKE-Df-peH"; */
+"HKE-Df-peH.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "Insertar Usuario"; ObjectID = "Ruo-5M-rFF"; */
+"Ruo-5M-rFF.title" = "Insert User";
+
+/* Class = "UIBarButtonItem"; title = "Nuevo User"; ObjectID = "TAv-Go-SPh"; */
+"TAv-Go-SPh.title" = "New User";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "Vp8-lT-xi0"; */
+"Vp8-lT-xi0.text" = "id";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "gJn-Ki-eG9"; */
+"gJn-Ki-eG9.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Nombre"; ObjectID = "iBv-h8-rU6"; */
+"iBv-h8-rU6.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Fecha de Nacimiento"; ObjectID = "iiR-Ai-0ef"; */
+"iiR-Ai-0ef.text" = "Birthday";
+
+/* Class = "UITextField"; placeholder = "Id"; ObjectID = "jai-ib-Sz4"; */
+"jai-ib-Sz4.placeholder" = "Id";
+
+/* Class = "UILabel"; text = "Fecha de Nacimiento"; ObjectID = "o8p-My-N3M"; */
+"o8p-My-N3M.text" = "Birthday";
+
+/* Class = "UIViewController"; title = "Modificar Usuario"; ObjectID = "oKC-gv-By0"; */
+"oKC-gv-By0.title" = "Modify User";
+
+/* Class = "UIButton"; configuration.title = "Modificar"; ObjectID = "pdA-BI-51O"; */
+"pdA-BI-51O.configuration.title" = "Modify";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pdA-BI-51O"; */
+"pdA-BI-51O.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Fecha de Nacimiento"; ObjectID = "s9P-cc-FrS"; */
+"s9P-cc-FrS.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "sAJ-hL-BYw"; */
+"sAJ-hL-BYw.text" = "Name";
